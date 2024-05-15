@@ -5,5 +5,6 @@ push
 from remote to local
 1.clone
 2.go to the folder
-3. fetch
-4. pull
+3.pull
+4. fetch
+5. pull

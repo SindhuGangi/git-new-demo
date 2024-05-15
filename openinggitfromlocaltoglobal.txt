@@ -2,3 +2,8 @@ hello we are yet to start git hub
 first link
 second creditnals
 push
+from remote to local
+1.clone
+2.go to the folder
+3. fetch
+4. pull
